@@ -119,15 +119,3 @@ Contributions are welcome — please:
 
 If you want help customizing visuals, adding GLTF piece models, or adding post-processing (bloom/glow), open an issue or reach out in the repo's discussions.
 
-``
-
-# Suggested additional metadata (for GitHub)
-- Topics / tags: `three.js`, `chess`, `webgl`, `threejs`, `3d`, `game`, `javascript`, `ai`, `web-audio`
-- Default branch: `main`
-- Suggested license: `MIT`
-
----
-
-
-Which of those should I add next?
-```
