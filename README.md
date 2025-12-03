@@ -47,7 +47,7 @@ futuristic-3d-chess/
 ### 1️⃣ Clone repo
 
 ```bash
-git clone https://github.com/<your-username>/futuristic-3d-chess.git
+git clone https://github.com/manuka-rashen/futuristic-3d-chess.git
 cd futuristic-3d-chess
 ```
 
