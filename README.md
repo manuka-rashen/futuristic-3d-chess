@@ -1,16 +1,3 @@
-# Repo name
-
-**futuristic-3d-chess**
-
-# Repo description (short)
-
-A luxurious, futuristic 3D chess experience built with Three.js and Chess.js — premium lighting, tactile procedural audio, cinematic camera moves, particle effects and an AI opponent. Single-file demo (HTML) with polished HUD and UX.
-
----
-
-# README.md
-
-``
 # Futuristic 3D Chess
 
 **futuristic-3d-chess** is a single-file, browser-based 3D chess demo that blends photoreal lighting, tactile procedural audio, and cinematic camera effects to create a luxury, futuristic chess experience. Built with **Three.js** for rendering and **Chess.js** for game logic. Includes a simple AI opponent, polished HUD, particle effects and end-game cinematics.
